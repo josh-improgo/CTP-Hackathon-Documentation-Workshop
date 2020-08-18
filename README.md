@@ -23,12 +23,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-###### Change this to an h1 tag
-##### Change this to an h2 tag
-#### Change this to an h3 tag
-### Change this to an h4 tag
-## Change this to an h5 tag
-# Change this to an h6 tag
+# Change this to an h1 tag
+## Change this to an h2 tag
+### Change this to an h3 tag
+#### Change this to an h4 tag
+##### Change this to an h5 tag
+###### Change this to an h6 tag
 
 <hr>
 
@@ -36,12 +36,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- item 1
-- item 2
-- item 3
-- item 4
-- item 5
-- item 6
+1. item 1
+2. item 2
+3. item 3
+4. item 4
+5. item 5
+6. item 6
 
 <hr>
 
@@ -49,7 +49,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become! 
+1 *Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become! *
 
 <hr>
 
@@ -58,11 +58,11 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-![Your Image Should be here](/Images/Insert_the_CTP_Logo.png)
+![Your Image Should be here](https://github.com/josh-improgo/CTP-Hackathon-Documentation-Workshop/blob/master/Images/CTP_Logo.jpg)
 
 **Note:** You can also embed images like this using URL's instead of the local file location! 
 Insert the URL inside the (Parenthesis) rather than the file location. 
-If your lost go into edit mode to see what I'm referring to!
+If you're lost go into edit mode to see what I'm referring to!
 
 <hr>
 
